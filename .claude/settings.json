@@ -5,9 +5,16 @@
         "source": "github",
         "repo": "JuliusBrussee/caveman"
       }
+    },
+    "i-have-adhd": {
+      "source": {
+        "source": "github",
+        "repo": "ayghri/i-have-adhd"
+      }
     }
   },
   "enabledPlugins": {
-    "caveman@caveman": true
+    "caveman@caveman": true,
+    "i-have-adhd@i-have-adhd": true
   }
 }
